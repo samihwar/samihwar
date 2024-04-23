@@ -1,4 +1,5 @@
 ### Hi there 👋
+![header](https://github.com/samihwar/samihwar/assets/118437620/2c13fb36-a0ac-4f53-a25c-36389480e656)
 
 <!--
 **samihwar/samihwar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
