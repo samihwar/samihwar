@@ -10,7 +10,7 @@
 
 - ⚡ Fun fact: I use tabs over spaces
 
-- 📷 I'm also a photographer [Instagram](https://www.instagram.com/photo__perfector?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==)
+- 📷 I'm also a photographer [Photo__perfector](https://www.instagram.com/photo__perfector?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==)
 
 <br/>
 
