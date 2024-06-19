@@ -78,22 +78,6 @@
 
 <br/>
 
-## Recent Blog Posts  
-
-<br/>
-
-<div align="center">
-  <!-- Populate with recent blog posts if available -->
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://spotify-github-profile.vercel.app/api/view?uid=31bhpf43jzr2u24upqd5w53k6kke&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false" />
-</div>
-
-<br/>
-
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=samihwar&&style=flat-square" align="center" />
 </div>
