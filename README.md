@@ -4,7 +4,7 @@
 
 ### <div align="center">I'm a 3rd year computer science student at Haifa University</div>
 
-- 🔭 I’m currently working on ATIS, a full stack project
+<!-- - 🔭 I’m currently working on ATIS, a full stack project -->
 
 - 🌱 I’m currently learning machine learning and computer vision
 
