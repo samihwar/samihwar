@@ -2,7 +2,7 @@
   <img src="https://github.com/samihwar/samihwar/assets/118437620/2c13fb36-a0ac-4f53-a25c-36389480e656" align="center" style="width: 100%" />
 </div>
 
-### <div align="center">I'm a 3rd year computer science student at Haifa University</div>
+### <div align="center">I'm a last year computer science student at Haifa University</div>
 
 <!-- - 🔭 I’m currently working on ATIS, a full stack project -->
 
