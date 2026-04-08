@@ -4,13 +4,13 @@
 
 ### <div align="center">I'm a computer science graduate</div>
 
-<!-- - 🔭 I’m currently working on ATIS, a full stack project -->
+- 🔭 I’m currently working on Planpal, a tasks manager project -->
 
 - 🌱 I’m currently learning machine learning and computer vision
 
 - ⚡ Fun fact: I use tabs over spaces
 
-- 📷 I'm also a photographer [Photo__perfector](https://www.instagram.com/photo__perfector?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==)
+- 📷 I'm also a photographer [Photo__perfector](https://www.instagram.com/photoperfector.studio?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==)
 
 <br/>
 
@@ -66,18 +66,36 @@
 
 ## GitHub Stats  
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=samihwar&layout=compact&theme=great-gatsby" align="center" />
+<div align="center"><!--📊STATSGRAPH / 🌐WEBSITE: https://github.com/anuraghazra/github-readme-stats -->
+  <img src="https://github-readme-stats-trinibs-projects.vercel.app/api?username=samihwar&show_icons=true&theme=dark&border_color=FF5F1F&icon_color=FF5F1F">
 </div>
 
 <br/>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=samihwar&show_icons=true&theme=great-gatsby" align="center" />
+<div align="center"><!--📊STREAKSTATSGRAPH / 🌐WEBSITE: https://github.com/denvercoder1/github-readme-streak-stats -->
+  <img src="https://streak-stats.demolab.com?user=samihwar&theme=dark&short_numbers=true&date_format=j%2Fn%5B%2FY%5D&stroke=FF5F1F&border=FF5F1F&fire=FF5F1F">
 </div>
 
 <br/>
+<!--📙LANGUAGES / 🌐WEBSITE: https://github.com/anuraghazra/github-readme-stats -->
+<p align="center">
+<a href="https://github.com/trinib/AdGuard-WireGuard-Unbound-DNScrypt"><img src="https://github-readme-stats-trinibs-projects.vercel.app/api/top-langs?username=samihwar&theme=dark&layout=compact&border_color=FF5F1F&langs_count=6">
 
+<!--✨REPO / 🌐WEBSITE: https://github.com/anuraghazra/github-readme-stats -->
+<!--<img src="https://github-readme-stats-trinibs-projects.vercel.app/api/pin/?username=samihwar&repo=Planpal&theme=merko&border_color=599200">
+
+<!--🏆TROPHY / 🌐WEBSITE: https://github.com/ryo-ma/github-profile-trophy -->
+<div align="center">
+<img src="https://github-profile-trophy-trinibs-projects.vercel.app/?username=samihwar&theme=onedark&no-bg=true&no-frame=true&row=1&column=4&title=MultiLanguage,Commits,Followers,PullRequest">
+ </div>
+
+<div align="center">
+<img src="https://github-profile-trophy-trinibs-projects.vercel.app/?username=samihwar&theme=onedark&no-bg=true&no-frame=true&row=1&column=4&title=Repositories,Stars">
+ </div>
+
+
+
+ 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=samihwar&&style=flat-square" align="center" />
 </div>
